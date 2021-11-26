@@ -1,0 +1,139 @@
+date,day_type_id,day_type_description,year
+2011-01-03,J1,New Years Day,2011
+2011-04-22,GF,Good Friday,2011
+2011-04-25,EM,Easter Monday,2011
+2011-05-02,M1,1st May Bank Holiday,2011
+2011-05-30,M2,2nd May Bank Holiday,2011
+2011-08-29,A2,Late August Bank Holiday,2011
+2011-12-25,CD,Christmas Day,2011
+2011-12-26,BD,Boxing Day,2011
+2012-01-02,J1,New Years Day,2012
+2012-04-06,GF,Good Friday,2012
+2012-04-09,EM,Easter Monday,2012
+2012-05-07,M1,1st May Bank Holiday,2012
+2012-06-04,M2,2nd May Bank Holiday,2012
+2012-08-27,A2,Late August Bank Holiday,2012
+2012-12-25,CD,Christmas Day,2012
+2012-12-26,BD,Boxing Day,2012
+2013-01-01,J1,New Years Day,2013
+2013-03-29,GF,Good Friday,2013
+2013-04-01,EM,Easter Monday,2013
+2013-05-06,M1,1st May Bank Holiday,2013
+2013-05-27,M2,2nd May Bank Holiday,2013
+2013-08-26,A2,Late August Bank Holiday,2013
+2013-12-25,CD,Christmas Day,2013
+2013-12-26,BD,Boxing Day,2013
+2014-01-01,J1,New Years Day,2014
+2014-04-18,GF,Good Friday,2014
+2014-04-21,EM,Easter Monday,2014
+2014-05-05,M1,1st May Bank Holiday,2014
+2014-05-26,M2,2nd May Bank Holiday,2014
+2014-08-25,A2,Late August Bank Holiday,2014
+2014-12-25,CD,Christmas Day,2014
+2014-12-26,BD,Boxing Day,2014
+2015-01-01,J1,New Years Day,2015
+2015-04-03,GF,Good Friday,2015
+2015-04-06,EM,Easter Monday,2015
+2015-05-04,M1,1st May Bank Holiday,2015
+2015-05-25,M2,2nd May Bank Holiday,2015
+2015-08-31,A2,Late August Bank Holiday,2015
+2015-12-25,CD,Christmas Day,2015
+2015-12-28,BD,Boxing Day,2015
+2016-01-01,J1,New Years Day,2016
+2016-03-25,GF,Good Friday,2016
+2016-03-28,EM,Easter Monday,2016
+2016-05-02,M1,1st May Bank Holiday,2016
+2016-05-30,M2,2nd May Bank Holiday,2016
+2016-08-29,A2,Late August Bank Holiday,2016
+2016-12-25,CD,Christmas Day,2016
+2016-12-26,BD,Boxing Day,2016
+2017-01-02,J1,New Years Day,2017
+2017-04-14,GF,Good Friday,2017
+2017-04-17,EM,Easter Monday,2017
+2017-05-01,M1,1st May Bank Holiday,2017
+2017-05-29,M2,2nd May Bank Holiday,2017
+2017-08-28,A2,Late August Bank Holiday,2017
+2017-12-25,CD,Christmas Day,2017
+2017-12-26,BD,Boxing Day,2017
+2018-01-01,J1,New Years Day,2018
+2018-03-30,GF,Good Friday,2018
+2018-04-02,EM,Easter Monday,2018
+2018-05-07,M1,1st May Bank Holiday,2018
+2018-05-28,M2,2nd May Bank Holiday,2018
+2018-08-27,A2,Late August Bank Holiday,2018
+2018-12-25,CD,Christmas Day,2018
+2018-12-26,BD,Boxing Day,2018
+2019-01-01,J1,New Years Day,2019
+2019-04-19,GF,Good Friday,2019
+2019-04-22,EM,Easter Monday,2019
+2019-05-06,M1,1st May Bank Holiday,2019
+2019-05-27,M2,2nd May Bank Holiday,2019
+2019-08-26,A2,Late August Bank Holiday,2019
+2019-12-25,CD,Christmas Day,2019
+2019-12-26,BD,Boxing Day,2019
+2020-01-01,J1,New Years Day,2020
+2020-04-10,GF,Good Friday,2020
+2020-04-13,EM,Easter Monday,2020
+2020-05-08,M1,1st May Bank Holiday,2020
+2020-05-25,M2,2nd May Bank Holiday,2020
+2020-08-31,A2,Late August Bank Holiday,2020
+2020-12-25,CD,Christmas Day,2020
+2020-12-26,BD,Boxing Day,2020
+2021-01-01,J1,New Years Day,2021
+2021-04-02,GF,Good Friday,2021
+2021-05-04,EM,Easter Monday,2021
+2021-05-03,M1,1st May Bank Holiday,2021
+2021-05-31,M2,2nd May Bank Holiday,2021
+2021-08-30,A2,Late August Bank Holiday,2021
+2021-12-25,CD,Christmas Day,2021
+2021-12-26,BD,Boxing Day,2021
+2022-01-01,J1,New Years Day,2022
+2022-03-01,J2,New Year Bank Holiday,2022
+2022-04-15,GF,Good Friday,2022
+2022-04-18,EM,Easter Monday,2022
+2022-05-02,M1,1st May Bank Holiday,2022
+2022-05-30,M2,2nd May Bank Holiday,2022
+2022-08-29,A2,Late August Bank Holiday,2022
+2022-12-25,CD,Christmas Day,2022
+2022-12-26,BD,Boxing Day,2022
+2023-01-01,J1,New Years Day,2023
+2023-02-01,J2,New Year Bank Holiday,2023
+2023-04-07,GF,Good Friday,2023
+2023-10-04,EM,Easter Monday,2023
+2023-05-01,M1,1st May Bank Holiday,2023
+2023-05-29,M2,2nd May Bank Holiday,2023
+2023-08-28,A2,Late August Bank Holiday,2023
+2023-12-25,CD,Christmas Day,2023
+2023-12-26,BD,Boxing Day,2023
+2024-01-01,J1,New Years Day,2024
+2024-03-29,GF,Good Friday,2024
+2024-04-01,EM,Easter Monday,2024
+2024-05-06,M1,1st May Bank Holiday,2024
+2024-05-27,M2,2nd May Bank Holiday,2024
+2024-08-26,A2,Late August Bank Holiday,2024
+2024-12-25,CD,Christmas Day,2024
+2024-12-26,BD,Boxing Day,2024
+2025-01-01,J1,New Years Day,2025
+2025-04-18,GF,Good Friday,2025
+2025-04-21,EM,Easter Monday,2025
+2025-05-05,M1,1st May Bank Holiday,2025
+2025-05-26,M2,2nd May Bank Holiday,2025
+2025-08-25,A2,Late August Bank Holiday,2025
+2025-12-25,CD,Christmas Day,2025
+2025-12-26,BD,Boxing Day,2025
+2026-01-01,J1,New Years Day,2026
+2026-04-03,GF,Good Friday,2026
+2026-04-06,EM,Easter Monday,2026
+2026-04-05,M1,1st May Bank Holiday,2026
+2026-05-25,M2,2nd May Bank Holiday,2026
+2026-08-31,A2,Late August Bank Holiday,2026
+2026-12-25,CD,Christmas Day,2026
+2026-12-26,BD,Boxing Day,2026
+2027-01-01,J1,New Years Day,2027
+2027-03-26,GF,Good Friday,2027
+2027-03-29,EM,Easter Monday,2027
+2027-03-05,M1,1st May Bank Holiday,2027
+2027-05-31,M2,2nd May Bank Holiday,2027
+2027-08-30,A2,Late August Bank Holiday,2027
+2027-12-25,CD,Christmas Day,2027
+2027-12-26,BD,Boxing Day,2027
